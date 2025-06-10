@@ -14,7 +14,7 @@ This project implements a **deep learning pipeline** using PyTorch to classify i
 | `Data_Preprocessing_Enhancements.ipynb` | Prepares PyTorch `Dataset` objects with image resizing, normalization, and augmentation |
 | `CNN_Model_Basic_PyTorch.ipynb` | Implements and trains a custom convolutional neural network |
 | `ResNet18_Improved_Model.ipynb` | Fine-tunes a pretrained ResNet-18 model for binary classification |
-| `FORGERYDETECTIONPROJ.ipynb` | Integrates dataset, model, training loop, and logging in one end-to-end pipeline |
+| `Full_Compiled_Script.ipynb` | Integrates dataset, model, training loop, and logging in one end-to-end pipeline. |
 | `Evaluating_Trained_Model.ipynb` | Loads trained weights and evaluates the model using standard classification metrics |
 | `ResNet18_Confusion_Matrix.ipynb` | Generates and visualizes confusion matrix using `sklearn.metrics` |
 | `Grad-CAM_Tampered_Images.ipynb` | Applies Grad-CAM to tampered image predictions to visualize activation maps |
