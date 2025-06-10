@@ -23,7 +23,7 @@ This project implements a **deep learning pipeline** using PyTorch to classify i
 
 ---
 
-## 🧠 Code Structure
+## Code Structure
 
 ### 1. **Data Preparation & Preprocessing**
 - **Loading**: Original and tampered image paths.
@@ -61,7 +61,7 @@ This project implements a **deep learning pipeline** using PyTorch to classify i
 
 ---
 
-## 🧪 Results Summary
+## Results Summary
 - ResNet-18 achieved higher classification accuracy than the basic CNN.
 - Grad-CAM visualizations show reliable focus on tampered image regions.
 - The model generalizes well to unseen patches and localizes forgery effectively.
