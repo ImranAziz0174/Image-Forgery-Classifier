@@ -1,4 +1,4 @@
-# 🧠 Tampered Image Patch Classification with Explainability
+# Tampered Image Patch Classification with Explainability
 
 ## Overview
 
@@ -6,7 +6,7 @@ This project implements a **deep learning pipeline** using PyTorch to classify i
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 | Notebook | Purpose |
 |----------|---------|
@@ -54,7 +54,7 @@ This project implements a **deep learning pipeline** using PyTorch to classify i
 
 ---
 
-## ⚙️ Key Technologies
+## Key Technologies
 - **Python**, **PyTorch**, **OpenCV**, **Matplotlib**, **Torchvision**, **Grad-CAM**
 - **CNN and ResNet-18 architectures**
 - Explainability via **Class Activation Maps (CAM)**
