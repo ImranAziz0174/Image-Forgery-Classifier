@@ -4,6 +4,8 @@
 
 This project implements a **deep learning pipeline** using PyTorch to classify image patches as **original or tampered** from the CG-1050 dataset. It includes data preprocessing, model training (basic CNN and ResNet-18), evaluation using metrics and Grad-CAM visualizations, and result analysis through confusion matrices and heatmaps.
 
+NOTE: Some notebooks may not display the final output because the kernel crashed when each phase was run separately. Instead, you can just refer to the Full_Compiled_Script to see the complete results. The reason for this is that PyTorch was not allowing the images to load, which caused the kernel to die and not display the final result individually.
+
 ---
 
 ## Project Structure
